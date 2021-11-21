@@ -1,0 +1,11 @@
+import time
+print('...')
+time.sleep(1)
+print('Hello!My name is Li MingKang.')
+time.sleep(1)
+print('...')
+time.sleep(1)
+print('I can write C# and Python3 code')
+time.sleep(1)
+print('...')
+input()
